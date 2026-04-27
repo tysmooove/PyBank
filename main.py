@@ -2,6 +2,7 @@
 # main.py
 # PyBank — Personal Banking Management System
 # Entry point. Handles all menu navigation and user interaction.
+# Tyler Hawkins - CIS4930 Capstone Project
 ##############################################################################
 
 # Imports
